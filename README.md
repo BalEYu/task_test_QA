@@ -43,7 +43,7 @@
 <tr>
 	<td>Java JDK</td>
 	<td>8+</td>
-             <td></td>
+             <td>https://www.oracle.com/java/technologies/downloads/</td>
 </tr>
 <tr>
 	<td>Git</td>
